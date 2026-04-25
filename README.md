@@ -105,8 +105,8 @@ The diagram below represents the Waterfall Model as applied to the Library Manag
 
 For reference and editing, the original diagram is available below:
 
-- **Excalidraw File:** `https://excalidraw.com/#json=iT4_uFgwGGqOfH0EyTi5k,wkzpiKAI1DZn2Pc7k4FDHg`
-- **Excalidraw Link:** [Open Diagram](PASTE_YOUR_EXCALIDRAW_LINK_HERE)
+- **Excalidraw File:** `library-management-system.excalidraw`
+- **Excalidraw Link:** [Open Diagram](https://excalidraw.com/#json=iT4_uFgwGGqOfH0EyTi5k,wkzpiKAI1DZn2Pc7k4FDHg)
 
 > The Excalidraw file can be opened and edited using https://excalidraw.com
 ### Phase Breakdown
