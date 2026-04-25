@@ -101,6 +101,14 @@ The diagram below represents the Waterfall Model as applied to the Library Manag
 
 ![Waterfall Diagram](library-management-system.png)
 
+### Diagram References
+
+For reference and editing, the original diagram is available below:
+
+- **Excalidraw File:** `https://excalidraw.com/#json=iT4_uFgwGGqOfH0EyTi5k,wkzpiKAI1DZn2Pc7k4FDHg`
+- **Excalidraw Link:** [Open Diagram](PASTE_YOUR_EXCALIDRAW_LINK_HERE)
+
+> The Excalidraw file can be opened and edited using https://excalidraw.com
 ### Phase Breakdown
 
 - **Phase 1: Requirements Analysis**  
